@@ -1,0 +1,24 @@
+{
+    "name": "jenkins-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"No tests yet\" && exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/asmat72/nodejs-demo-app.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/asmat72/nodejs-demo-app/issues"
+    },
+    "homepage": "https://github.com/asmat72/nodejs-demo-app#readme",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
